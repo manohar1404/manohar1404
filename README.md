@@ -13,7 +13,7 @@
 
 ## 🛠️ Skills
 
-- **Programming Languages:** C++, JavaScript
+- **Programming Languages:** C++, JavaScript ,Python
 - **Web Development:** HTML, CSS, JavaScript
 - **Tools:** Linux,
 
